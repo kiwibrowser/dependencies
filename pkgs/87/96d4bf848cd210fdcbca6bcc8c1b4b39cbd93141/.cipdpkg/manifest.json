@@ -1,0 +1,18 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/android_support_test_runner",
+  "files": [
+    {
+      "name": "lib/exposed-instrumentation-api-publish-no-dep.jar",
+      "size": 2106
+    },
+    {
+      "name": "lib/rules.aar",
+      "size": 35419
+    },
+    {
+      "name": "lib/runner-release-no-dep.jar",
+      "size": 135974
+    }
+  ]
+}

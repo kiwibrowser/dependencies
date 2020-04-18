@@ -1,0 +1,26 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/espresso",
+  "files": [
+    {
+      "name": "lib/espresso-contrib-release-no-dep.jar",
+      "size": 34748
+    },
+    {
+      "name": "lib/espresso-core-release-no-dep.jar",
+      "size": 2948420
+    },
+    {
+      "name": "lib/espresso-idling-resource-release-no-dep.jar",
+      "size": 2281
+    },
+    {
+      "name": "lib/espresso-intents-release-no-dep.jar",
+      "size": 51107
+    },
+    {
+      "name": "lib/espresso-web-release-no-dep.jar",
+      "size": 230524
+    }
+  ]
+}

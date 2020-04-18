@@ -1,0 +1,10 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/gson",
+  "files": [
+    {
+      "name": "lib/gson.jar",
+      "size": 231952
+    }
+  ]
+}

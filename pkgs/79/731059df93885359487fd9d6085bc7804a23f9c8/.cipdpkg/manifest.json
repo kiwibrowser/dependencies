@@ -1,0 +1,798 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/android_sdk/public/emulator",
+  "files": [
+    {
+      "name": "emulator/NOTICE.txt",
+      "size": 38040
+    },
+    {
+      "name": "emulator/bin64/e2fsck",
+      "size": 2488032,
+      "executable": true
+    },
+    {
+      "name": "emulator/bin64/fsck.ext4",
+      "size": 2488032,
+      "executable": true
+    },
+    {
+      "name": "emulator/bin64/mkfs.ext4",
+      "size": 1757320,
+      "executable": true
+    },
+    {
+      "name": "emulator/bin64/resize2fs",
+      "size": 968960,
+      "executable": true
+    },
+    {
+      "name": "emulator/bin64/tune2fs",
+      "size": 1582416,
+      "executable": true
+    },
+    {
+      "name": "emulator/emulator",
+      "size": 1011448,
+      "executable": true
+    },
+    {
+      "name": "emulator/emulator-check",
+      "size": 462824,
+      "executable": true
+    },
+    {
+      "name": "emulator/emulator64-arm",
+      "size": 26162096,
+      "executable": true
+    },
+    {
+      "name": "emulator/emulator64-crash-service",
+      "size": 5264664,
+      "executable": true
+    },
+    {
+      "name": "emulator/emulator64-mips",
+      "size": 26279072,
+      "executable": true
+    },
+    {
+      "name": "emulator/emulator64-x86",
+      "size": 26310368,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib/advancedFeatures.ini",
+      "size": 9024
+    },
+    {
+      "name": "emulator/lib/advancedFeaturesCanary.ini",
+      "size": 9023
+    },
+    {
+      "name": "emulator/lib/ca-bundle.pem",
+      "size": 258424
+    },
+    {
+      "name": "emulator/lib/hardware-properties.ini",
+      "size": 15917
+    },
+    {
+      "name": "emulator/lib/libstdc++/libstdc++.so.6",
+      "size": 3941356,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib/libstdc++/libstdc++.so.6.0.19",
+      "size": 3941356,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib/pc-bios/bios-256k.bin",
+      "size": 262144
+    },
+    {
+      "name": "emulator/lib/pc-bios/bios.bin",
+      "size": 131072
+    },
+    {
+      "name": "emulator/lib/pc-bios/efi-virtio.rom",
+      "size": 192000
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/ar",
+      "size": 2239
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/bepo",
+      "size": 11421
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/common",
+      "size": 2077
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/cz",
+      "size": 1215
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/da",
+      "size": 2576
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/de",
+      "size": 2467
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/de-ch",
+      "size": 2533
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/en-gb",
+      "size": 2581
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/en-us",
+      "size": 609
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/es",
+      "size": 2236
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/et",
+      "size": 1115
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/fi",
+      "size": 2638
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/fo",
+      "size": 906
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/fr",
+      "size": 2587
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/fr-be",
+      "size": 2735
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/fr-ca",
+      "size": 934
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/fr-ch",
+      "size": 2471
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/hr",
+      "size": 2699
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/hu",
+      "size": 1866
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/is",
+      "size": 3066
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/it",
+      "size": 2462
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/ja",
+      "size": 2140
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/lt",
+      "size": 1096
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/lv",
+      "size": 2840
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/mk",
+      "size": 2366
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/modifiers",
+      "size": 293
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/nl",
+      "size": 1105
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/nl-be",
+      "size": 43
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/no",
+      "size": 2576
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/pl",
+      "size": 2672
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/pt",
+      "size": 2450
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/pt-br",
+      "size": 1354
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/ru",
+      "size": 2554
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/sl",
+      "size": 2293
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/sv",
+      "size": 1008
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/th",
+      "size": 3123
+    },
+    {
+      "name": "emulator/lib/pc-bios/keymaps/tr",
+      "size": 2649
+    },
+    {
+      "name": "emulator/lib/pc-bios/kvmvapic.bin",
+      "size": 9216
+    },
+    {
+      "name": "emulator/lib/pc-bios/linuxboot.bin",
+      "size": 1024
+    },
+    {
+      "name": "emulator/lib/pc-bios/linuxboot_dma.bin",
+      "size": 1536
+    },
+    {
+      "name": "emulator/lib/pc-bios/vgabios-cirrus.bin",
+      "size": 37376
+    },
+    {
+      "name": "emulator/lib/pc-bios/vgabios-virtio.bin",
+      "size": 38912
+    },
+    {
+      "name": "emulator/lib64/gles_mesa/libGL.so",
+      "size": 22197896,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/gles_mesa/libGL.so.1",
+      "size": 22197896,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/gles_swiftshader/libEGL.so",
+      "size": 51560,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/gles_swiftshader/libGLES_CM.so",
+      "size": 6481176,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/gles_swiftshader/libGLESv2.so",
+      "size": 7059384,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/lib64EGL_translator.so",
+      "size": 578656,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/lib64GLES12Translator.so",
+      "size": 536080,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/lib64GLES_CM_translator.so",
+      "size": 2776856,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/lib64GLES_V2_translator.so",
+      "size": 5085288,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/lib64OpenglRender.so",
+      "size": 713592,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/lib64emugl_test_shared_library.so",
+      "size": 4576,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/libstdc++/libstdc++.so.6",
+      "size": 4831936,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/libstdc++/libstdc++.so.6.0.19",
+      "size": 4831936,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Concurrent.so",
+      "size": 23912,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Concurrent.so.5",
+      "size": 23912,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Concurrent.so.5.7",
+      "size": 23912,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Concurrent.so.5.7.0",
+      "size": 23912,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Core.so",
+      "size": 5786232,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Core.so.5",
+      "size": 5786232,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Core.so.5.7",
+      "size": 5786232,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Core.so.5.7.0",
+      "size": 5786232,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5DBus.so",
+      "size": 523800,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5DBus.so.5",
+      "size": 523800,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5DBus.so.5.7",
+      "size": 523800,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5DBus.so.5.7.0",
+      "size": 523800,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Gui.so",
+      "size": 5811584,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Gui.so.5",
+      "size": 5811584,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Gui.so.5.7",
+      "size": 5811584,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Gui.so.5.7.0",
+      "size": 5811584,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Network.so",
+      "size": 1078344,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Network.so.5",
+      "size": 1078344,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Network.so.5.7",
+      "size": 1078344,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Network.so.5.7.0",
+      "size": 1078344,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5OpenGL.so",
+      "size": 357024,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5OpenGL.so.5",
+      "size": 357024,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5OpenGL.so.5.7",
+      "size": 357024,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5OpenGL.so.5.7.0",
+      "size": 357024,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5PrintSupport.so",
+      "size": 414112,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5PrintSupport.so.5",
+      "size": 414112,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5PrintSupport.so.5.7",
+      "size": 414112,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5PrintSupport.so.5.7.0",
+      "size": 414112,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Sql.so",
+      "size": 279696,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Sql.so.5",
+      "size": 279696,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Sql.so.5.7",
+      "size": 279696,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Sql.so.5.7.0",
+      "size": 279696,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Svg.so",
+      "size": 345976,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Svg.so.5",
+      "size": 345976,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Svg.so.5.7",
+      "size": 345976,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Svg.so.5.7.0",
+      "size": 345976,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Test.so",
+      "size": 225264,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Test.so.5",
+      "size": 225264,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Test.so.5.7",
+      "size": 225264,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Test.so.5.7.0",
+      "size": 225264,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Widgets.so",
+      "size": 6596968,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Widgets.so.5",
+      "size": 6596968,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Widgets.so.5.7",
+      "size": 6596968,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Widgets.so.5.7.0",
+      "size": 6596968,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5XcbQpa.so",
+      "size": 2037120,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5XcbQpa.so.5",
+      "size": 2037120,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5XcbQpa.so.5.7",
+      "size": 2037120,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5XcbQpa.so.5.7.0",
+      "size": 2037120,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Xml.so",
+      "size": 234384,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Xml.so.5",
+      "size": 234384,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Xml.so.5.7",
+      "size": 234384,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/lib/libQt5Xml.so.5.7.0",
+      "size": 234384,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/bearer/libqconnmanbearer.so",
+      "size": 213080,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/bearer/libqgenericbearer.so",
+      "size": 62936,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/bearer/libqnmbearer.so",
+      "size": 259960,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/generic/libqevdevkeyboardplugin.so",
+      "size": 62424,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/generic/libqevdevmouseplugin.so",
+      "size": 50072,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/generic/libqevdevtabletplugin.so",
+      "size": 50264,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/generic/libqevdevtouchplugin.so",
+      "size": 71032,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/generic/libqtuiotouchplugin.so",
+      "size": 58936,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/iconengines/libqsvgicon.so",
+      "size": 36936,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/imageformats/libqdds.so",
+      "size": 46736,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/imageformats/libqgif.so",
+      "size": 28440,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/imageformats/libqicns.so",
+      "size": 38584,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/imageformats/libqico.so",
+      "size": 28600,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/imageformats/libqjpeg.so",
+      "size": 268448,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/imageformats/libqsvg.so",
+      "size": 24568,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/imageformats/libqtga.so",
+      "size": 21656,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/imageformats/libqtiff.so",
+      "size": 429808,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/imageformats/libqwbmp.so",
+      "size": 20632,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/imageformats/libqwebp.so",
+      "size": 482400,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/platforminputcontexts/libcomposeplatforminputcontextplugin.so",
+      "size": 279488,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/platforminputcontexts/libibusplatforminputcontextplugin.so",
+      "size": 116760,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/platforms/libqlinuxfb.so",
+      "size": 1048992,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/platforms/libqminimal.so",
+      "size": 34936,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/platforms/libqoffscreen.so",
+      "size": 916288,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/platforms/libqxcb.so",
+      "size": 10424,
+      "executable": true
+    },
+    {
+      "name": "emulator/lib64/qt/plugins/sqldrivers/libqsqlite.so",
+      "size": 848296,
+      "executable": true
+    },
+    {
+      "name": "emulator/mksdcard",
+      "size": 13651,
+      "executable": true
+    },
+    {
+      "name": "emulator/package.xml",
+      "size": 17353
+    },
+    {
+      "name": "emulator/qemu/linux-x86_64/qemu-system-aarch64",
+      "size": 33534496,
+      "executable": true
+    },
+    {
+      "name": "emulator/qemu/linux-x86_64/qemu-system-armel",
+      "size": 33339904,
+      "executable": true
+    },
+    {
+      "name": "emulator/qemu/linux-x86_64/qemu-system-i386",
+      "size": 32328000,
+      "executable": true
+    },
+    {
+      "name": "emulator/qemu/linux-x86_64/qemu-system-mips64el",
+      "size": 32366464,
+      "executable": true
+    },
+    {
+      "name": "emulator/qemu/linux-x86_64/qemu-system-mipsel",
+      "size": 32193344,
+      "executable": true
+    },
+    {
+      "name": "emulator/qemu/linux-x86_64/qemu-system-x86_64",
+      "size": 32388448,
+      "executable": true
+    },
+    {
+      "name": "emulator/resources/Toren1BD.mtl",
+      "size": 358,
+      "executable": true
+    },
+    {
+      "name": "emulator/resources/Toren1BD.obj",
+      "size": 3612001,
+      "executable": true
+    },
+    {
+      "name": "emulator/resources/Toren1BD_Decor.png",
+      "size": 3688383,
+      "executable": true
+    },
+    {
+      "name": "emulator/resources/Toren1BD_Main.png",
+      "size": 3845619,
+      "executable": true
+    },
+    {
+      "name": "emulator/resources/Toren1BD_TV.png",
+      "size": 3150021,
+      "executable": true
+    },
+    {
+      "name": "emulator/resources/resources.rcc",
+      "size": 3669626
+    },
+    {
+      "name": "emulator/source.properties",
+      "size": 111
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/android_deps/repository/com_android_support_preference_leanback_v17",
+  "files": [
+    {
+      "name": "com_android_support_preference_leanback_v17.info",
+      "size": 1046
+    },
+    {
+      "name": "preference-leanback-v17-27.0.0.aar",
+      "size": 63848
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "format_version": "1.1",
+  "package_name": "chromium/third_party/google-truth",
+  "files": [
+    {
+      "name": "lib/truth-0.40.jar",
+      "size": 200966
+    },
+    {
+      "name": "lib/truth-java8-extension-0.40.jar",
+      "size": 17610
+    },
+    {
+      "name": "lib/truth-liteproto-extension-0.40.jar",
+      "size": 9077
+    },
+    {
+      "name": "lib/truth-proto-extension-0.40.jar",
+      "size": 160627
+    },
+    {
+      "name": "lib/truth-re2j-extension-0.40.jar",
+      "size": 6220
+    }
+  ]
+}

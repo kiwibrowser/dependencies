@@ -1,0 +1,1497 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/android_sdk/public/platform-tools",
+  "files": [
+    {
+      "name": "platform-tools/NOTICE.txt",
+      "size": 323847
+    },
+    {
+      "name": "platform-tools/adb",
+      "size": 2604257,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/api/annotations.zip",
+      "size": 140715
+    },
+    {
+      "name": "platform-tools/api/api-versions.xml",
+      "size": 3857974
+    },
+    {
+      "name": "platform-tools/dmtracedump",
+      "size": 57775,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/e2fsdroid",
+      "size": 795033,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/etc1tool",
+      "size": 300287,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/fastboot",
+      "size": 1265485,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/hprof-conv",
+      "size": 16938,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/lib64/libc++.so",
+      "size": 1272189,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/make_f2fs",
+      "size": 163952,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/mke2fs",
+      "size": 768379,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/mke2fs.conf",
+      "size": 1184,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/package.xml",
+      "size": 17208
+    },
+    {
+      "name": "platform-tools/sload_f2fs",
+      "size": 703237,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/source.properties",
+      "size": 38
+    },
+    {
+      "name": "platform-tools/sqlite3",
+      "size": 1272133,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/NOTICE",
+      "size": 11738
+    },
+    {
+      "name": "platform-tools/systrace/UPSTREAM_REVISION",
+      "size": 41
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/battor/battor/__init__.py",
+      "size": 1012
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/battor/battor/battor_binary_dependencies.json",
+      "size": 3872
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/battor/battor/battor_error.py",
+      "size": 241
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/battor/battor/battor_wrapper.py",
+      "size": 16186
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/battor/battor/battor_wrapper_devicetest.py",
+      "size": 3759
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/battor/battor/battor_wrapper_unittest.py",
+      "size": 14003
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/battor/bin/run_py_tests",
+      "size": 576
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/battor/bin/upload_battor_binaries.py",
+      "size": 1847,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/bin/run_tests",
+      "size": 928,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/LICENSE",
+      "size": 1102
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/README.md",
+      "size": 227
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/bin/run_eslint",
+      "size": 1711,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/bin/run_tests",
+      "size": 831,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/eslint/__init__.py",
+      "size": 1859
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/eslint/smoke_test.py",
+      "size": 995
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/rules/catapult-camelcase.js",
+      "size": 5610
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/eslint/tests/catapult-camelcase.js",
+      "size": 10615
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/lab/commits.py",
+      "size": 2666,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/lab/hardware.py",
+      "size": 2477,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/lab/keychain_unlock.sh",
+      "size": 612,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/node_runner/node_runner/__init__.py",
+      "size": 163
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/node_runner/node_runner/node_binaries.json",
+      "size": 2062
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/node_runner/node_runner/node_util.py",
+      "size": 1768
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/node_runner/node_runner/package.json",
+      "size": 547
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/README.txt",
+      "size": 329
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/__init__.py",
+      "size": 343
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/run_tests",
+      "size": 4854,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/setup.py",
+      "size": 381
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event.py",
+      "size": 8171
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/__init__.py",
+      "size": 258
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/decorators.py",
+      "size": 2669
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/decorators_test.py",
+      "size": 1758
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/log.py",
+      "size": 4692
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/log_io_test.py",
+      "size": 1356
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/meta_class.py",
+      "size": 538
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/multiprocessing_shim.py",
+      "size": 2108
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/parsed_trace_events.py",
+      "size": 2945
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_impl/trace_test.py",
+      "size": 1187
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_event_unittest.py",
+      "size": 16471
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_time.py",
+      "size": 7295
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_trace_event/py_trace_event/trace_time_unittest.py",
+      "size": 4210
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/PRESUBMIT.py",
+      "size": 1048
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/__init__.py",
+      "size": 4545
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/binary_manager.py",
+      "size": 2350
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/binary_manager_unittest.py",
+      "size": 8637
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/chrome_binaries.json",
+      "size": 3657
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/cloud_storage.py",
+      "size": 16383
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/cloud_storage_global_lock.py",
+      "size": 243
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/cloud_storage_unittest.py",
+      "size": 11657
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/contextlib_ext.py",
+      "size": 930
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/contextlib_ext_unittest.py",
+      "size": 847
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/dependency_util.py",
+      "size": 1346
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/lock.py",
+      "size": 3561
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/lock_unittest.py",
+      "size": 5590
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/py_utils_unittest.py",
+      "size": 1634
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/__init__.py",
+      "size": 805
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/annotated_symbol/__init__.py",
+      "size": 1890
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/annotated_symbol/base_symbol.py",
+      "size": 1073
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/annotated_symbol/class_definition.py",
+      "size": 1297
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/annotated_symbol/function_definition.py",
+      "size": 1301
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/annotated_symbol/import_statement.py",
+      "size": 8147
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/annotated_symbol/reference.py",
+      "size": 2042
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/module.py",
+      "size": 1000
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/offset_token.py",
+      "size": 3173
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor/snippet.py",
+      "size": 6717
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor_util/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/refactor_util/move.py",
+      "size": 3498
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/shell_util.py",
+      "size": 1139
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/tempfile_ext.py",
+      "size": 727
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/tempfile_ext_unittest.py",
+      "size": 1197
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/test_data/foo.txt",
+      "size": 29
+    },
+    {
+      "name": "platform-tools/systrace/catapult/common/py_utils/py_utils/xvfb.py",
+      "size": 828
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/PRESUBMIT.py",
+      "size": 985
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/bin/run_tests",
+      "size": 800,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/bin/update",
+      "size": 1286,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/__init__.py",
+      "size": 1505
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/archive_info.py",
+      "size": 3238
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/base_config.py",
+      "size": 15927
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/base_config_unittest.py",
+      "size": 79235,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/cloud_storage_info.py",
+      "size": 4045
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/cloud_storage_info_unittest.py",
+      "size": 10473
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/dependency_info.py",
+      "size": 4661
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/dependency_info_unittest.py",
+      "size": 11213
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/dependency_manager_unittest.py",
+      "size": 22469
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/dependency_manager_util.py",
+      "size": 3459
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/dependency_manager_util_unittest.py",
+      "size": 7758
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/exceptions.py",
+      "size": 1695
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/local_path_info.py",
+      "size": 1264
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/manager.py",
+      "size": 10318
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/uploader.py",
+      "size": 4156
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/dependency_manager/uploader_unittest.py",
+      "size": 4169
+    },
+    {
+      "name": "platform-tools/systrace/catapult/dependency_manager/pylintrc",
+      "size": 1825
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/PRESUBMIT.py",
+      "size": 2489
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/README.md",
+      "size": 1262
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/bin/generate_md_docs",
+      "size": 1317,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/bin/run_py_devicetests",
+      "size": 851,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/bin/run_py_tests",
+      "size": 567,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/__init__.py",
+      "size": 240
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/__init__.py",
+      "size": 162
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/apk_helper.py",
+      "size": 4914
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/apk_helper_test.py",
+      "size": 7473,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/app_ui.py",
+      "size": 8539
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/app_ui_test.py",
+      "size": 7134
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/battery_utils.py",
+      "size": 26222
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/battery_utils_test.py",
+      "size": 27462,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/constants/__init__.py",
+      "size": 162
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/constants/chrome.py",
+      "size": 1962
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/constants/file_system.py",
+      "size": 203
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/decorators.py",
+      "size": 6114
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/decorators_test.py",
+      "size": 13296
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_blacklist.py",
+      "size": 2249
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_blacklist_test.py",
+      "size": 1051
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_errors.py",
+      "size": 6470
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_errors_test.py",
+      "size": 2405,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_list.py",
+      "size": 1677
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_signal.py",
+      "size": 1234
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_temp_file.py",
+      "size": 2117
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_test_case.py",
+      "size": 1419
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_utils.py",
+      "size": 98887
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_utils_devicetest.py",
+      "size": 8532,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/device_utils_test.py",
+      "size": 120907,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/fastboot_utils.py",
+      "size": 9287
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/fastboot_utils_test.py",
+      "size": 13966,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/flag_changer.py",
+      "size": 9756
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/flag_changer_devicetest.py",
+      "size": 2887
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/flag_changer_test.py",
+      "size": 4585,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/forwarder.py",
+      "size": 17249
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/install_commands.py",
+      "size": 1858
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/logcat_monitor.py",
+      "size": 8679
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/logcat_monitor_test.py",
+      "size": 8737,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/md5sum.py",
+      "size": 4289
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/md5sum_test.py",
+      "size": 10335,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/perf/__init__.py",
+      "size": 162
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/perf/cache_control.py",
+      "size": 537
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/perf/perf_control.py",
+      "size": 7854
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/perf/perf_control_devicetest.py",
+      "size": 1109
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/perf/surface_stats_collector.py",
+      "size": 6697
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/perf/thermal_throttle.py",
+      "size": 4386
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/ports.py",
+      "size": 6274
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/__init__.py",
+      "size": 273
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/aapt.py",
+      "size": 1199
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/adb_compatibility_devicetest.py",
+      "size": 7561
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/adb_wrapper.py",
+      "size": 32385
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/adb_wrapper_devicetest.py",
+      "size": 3833,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/adb_wrapper_test.py",
+      "size": 1870,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/build_tools.py",
+      "size": 1330
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/dexdump.py",
+      "size": 899
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/fastboot.py",
+      "size": 3235
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/gce_adb_wrapper.py",
+      "size": 5042
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/intent.py",
+      "size": 3825
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/keyevent.py",
+      "size": 990
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/shared_prefs.py",
+      "size": 12817
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/shared_prefs_test.py",
+      "size": 6561,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/split_select.py",
+      "size": 1940
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/test/data/push_directory/push_directory_contents.txt",
+      "size": 17
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/test/data/push_file.txt",
+      "size": 14
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/sdk/version_codes.py",
+      "size": 438
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/settings.py",
+      "size": 9106
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/__init__.py",
+      "size": 162
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/adb_run_shell_cmd.py",
+      "size": 2125,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/cpufreq.py",
+      "size": 2569,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/device_monitor.py",
+      "size": 6961,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/device_monitor_test.py",
+      "size": 6300,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/device_recovery.py",
+      "size": 7732,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/device_status.py",
+      "size": 10864,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/flash_device.py",
+      "size": 2471,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/keyboard.py",
+      "size": 3475,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/provision_devices.py",
+      "size": 24370,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/screenshot.py",
+      "size": 1875,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/script_common.py",
+      "size": 1047
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/script_common_test.py",
+      "size": 1867,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/video_recorder.py",
+      "size": 5997,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/tools/wait_for_devices.py",
+      "size": 1654,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/valgrind_tools/__init__.py",
+      "size": 674
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/android/valgrind_tools/base_tool.py",
+      "size": 1298
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/base_error.py",
+      "size": 721
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/constants/__init__.py",
+      "size": 162
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/constants/exit_codes.py",
+      "size": 241
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/devil_dependencies.json",
+      "size": 4530
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/devil_env.py",
+      "size": 5987
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/devil_env_test.py",
+      "size": 1978,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/__init__.py",
+      "size": 797
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/battor_device_mapping.py",
+      "size": 11913,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/cmd_helper.py",
+      "size": 14249
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/cmd_helper_test.py",
+      "size": 9405,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/file_utils.py",
+      "size": 907
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/find_usb_devices.py",
+      "size": 16368,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/find_usb_devices_test.py",
+      "size": 13821,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/geometry.py",
+      "size": 2402
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/geometry_test.py",
+      "size": 1703
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/host_utils.py",
+      "size": 536
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/lazy/__init__.py",
+      "size": 219
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/lazy/weak_constant.py",
+      "size": 835
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/lsusb.py",
+      "size": 5253
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/lsusb_test.py",
+      "size": 9687,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/markdown.py",
+      "size": 8373,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/markdown_test.py",
+      "size": 3426,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/mock_calls.py",
+      "size": 6593
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/mock_calls_test.py",
+      "size": 5597,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/parallelizer.py",
+      "size": 6965
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/parallelizer_test.py",
+      "size": 5062
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/reraiser_thread.py",
+      "size": 7497
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/reraiser_thread_unittest.py",
+      "size": 2811
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/reset_usb.py",
+      "size": 3238,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/run_tests_helper.py",
+      "size": 1463
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/signal_handler.py",
+      "size": 1299
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/test/data/test_serial_map.json",
+      "size": 127
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/timeout_retry.py",
+      "size": 5942
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/timeout_retry_unittest.py",
+      "size": 2010,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/update_mapping.py",
+      "size": 1888,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/usb_hubs.py",
+      "size": 6111
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/watchdog_timer.py",
+      "size": 1177
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/devil/utils/zip_utils.py",
+      "size": 1247
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/docs/adb_wrapper.md",
+      "size": 10126
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/docs/device_blacklist.md",
+      "size": 2280
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/docs/device_utils.md",
+      "size": 29237
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/docs/markdown.md",
+      "size": 2704
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/docs/persistent_device_list.md",
+      "size": 1455
+    },
+    {
+      "name": "platform-tools/systrace/catapult/devil/pylintrc",
+      "size": 1821
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/PRESUBMIT.py",
+      "size": 1215
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/README.md",
+      "size": 376
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/README.md",
+      "size": 1336
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/Application.mk",
+      "size": 235
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/file_utils.cc",
+      "size": 2544
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/file_utils.h",
+      "size": 1731
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/logging.h",
+      "size": 1114
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/main.cc",
+      "size": 6175
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/process_info.cc",
+      "size": 2902
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/process_info.h",
+      "size": 2083
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/process_memory_stats.cc",
+      "size": 4185
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/atrace_helper/jni/process_memory_stats.h",
+      "size": 1906
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/bin/adb_profile_chrome",
+      "size": 407,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/bin/adb_profile_chrome_startup",
+      "size": 4280,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/bin/run_tests",
+      "size": 1338,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/bin/systrace",
+      "size": 430,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/__init__.py",
+      "size": 454
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/chrome_startup_tracing_agent.py",
+      "size": 4504
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/chrome_startup_tracing_agent_unittest.py",
+      "size": 1003
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/chrome_tracing_agent.py",
+      "size": 8984
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/chrome_tracing_agent_unittest.py",
+      "size": 2001
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/ddms_tracing_agent.py",
+      "size": 3053
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/ddms_tracing_agent_unittest.py",
+      "size": 861
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/fake_agent_1.py",
+      "size": 1814
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/fake_agent_2.py",
+      "size": 1807
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/flags.py",
+      "size": 701
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/main.py",
+      "size": 6074,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/perf_tracing_agent.py",
+      "size": 9324
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/perf_tracing_agent_unittest.py",
+      "size": 1281
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/profiler.py",
+      "size": 3970
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/profiler_unittest.py",
+      "size": 1809
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/run_tests",
+      "size": 98,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/third_party/COPYING",
+      "size": 18092
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/third_party/README.chromium",
+      "size": 293
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/third_party/perf_to_tracing.py",
+      "size": 6779
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/ui.py",
+      "size": 624
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/profile_chrome/util.py",
+      "size": 1075
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/pylintrc",
+      "size": 1807
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/AUTHORS",
+      "size": 292
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/LICENSE",
+      "size": 1563
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/README.md",
+      "size": 715
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/__init__.py",
+      "size": 1094
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/decorators.py",
+      "size": 1238
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/monitor_unittest.py",
+      "size": 1701
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/output_generator.py",
+      "size": 6930
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/output_generator_unittest.py",
+      "size": 4793
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/prefix.html",
+      "size": 1779
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/run_systrace.py",
+      "size": 6818,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/suffix.html",
+      "size": 16
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/systrace_runner.py",
+      "size": 2689
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/systrace_trace_viewer.html",
+      "size": 2333734
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_data",
+      "size": 17999
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_data_raw",
+      "size": 18282
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_data_stripped",
+      "size": 18281
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_extracted_tgids",
+      "size": 17417
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_extracted_threads",
+      "size": 111
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_fixed_tgids",
+      "size": 19137
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_missing_tgids",
+      "size": 19529
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/atrace_procfs_dump",
+      "size": 23205
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/battor_test_data.txt",
+      "size": 319
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/compressed_atrace_data.txt",
+      "size": 562
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/decompressed_atrace_data.txt",
+      "size": 98550
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/test_data/profile-chrome_systrace_perf_chrome_data",
+      "size": 47813
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/trace_result.py",
+      "size": 470
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/__init__.py",
+      "size": 2671
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/agents_unittest.py",
+      "size": 1650
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/android_process_data_agent.py",
+      "size": 3034
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/atrace_agent.py",
+      "size": 15627
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/atrace_agent_unittest.py",
+      "size": 4674,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/atrace_from_file_agent.py",
+      "size": 2588
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/atrace_from_file_agent_unittest.py",
+      "size": 2138,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/battor_trace_agent.py",
+      "size": 5990
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/battor_trace_agent_unittest.py",
+      "size": 6613,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/ftrace_agent.py",
+      "size": 7998
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/ftrace_agent_unittest.py",
+      "size": 4734,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/walt_agent.py",
+      "size": 4177
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_agents/walt_agent_unittest.py",
+      "size": 2013
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/tracing_controller.py",
+      "size": 11097
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/update_systrace_trace_viewer.py",
+      "size": 3747,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/util.py",
+      "size": 7722
+    },
+    {
+      "name": "platform-tools/systrace/catapult/systrace/systrace/util_unittest.py",
+      "size": 1057
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/LICENSE.txt",
+      "size": 2850
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/README.chromium",
+      "size": 630
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/linux-product_info.patch",
+      "size": 734
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/__init__.py",
+      "size": 2796,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/rfc2217.py",
+      "size": 59056
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/serialcli.py",
+      "size": 10038
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/serialjava.py",
+      "size": 9284
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/serialposix.py",
+      "size": 26585,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/serialutil.py",
+      "size": 20191
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/serialwin32.py",
+      "size": 18260
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/sermsdos.py",
+      "size": 5848
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/tools/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/tools/list_ports.py",
+      "size": 3221,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/tools/list_ports_linux.py",
+      "size": 5399,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/tools/list_ports_osx.py",
+      "size": 6489,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/tools/list_ports_posix.py",
+      "size": 3264,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/tools/list_ports_windows.py",
+      "size": 8653
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/tools/miniterm.py",
+      "size": 27451,
+      "executable": true
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/urlhandler/__init__.py",
+      "size": 0
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/urlhandler/protocol_hwgrep.py",
+      "size": 1526
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/urlhandler/protocol_loop.py",
+      "size": 9516
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/urlhandler/protocol_rfc2217.py",
+      "size": 307
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/urlhandler/protocol_socket.py",
+      "size": 10154
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/pyserial/serial/win32.py",
+      "size": 10120
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/zipfile/LICENSE",
+      "size": 12767
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/zipfile/README.chromium",
+      "size": 574
+    },
+    {
+      "name": "platform-tools/systrace/catapult/third_party/zipfile/zipfile_2_7_13.py",
+      "size": 59027
+    },
+    {
+      "name": "platform-tools/systrace/catapult/tracing/tracing/__init__.py",
+      "size": 230
+    },
+    {
+      "name": "platform-tools/systrace/catapult/tracing/tracing/trace_data/__init__.py",
+      "size": 163
+    },
+    {
+      "name": "platform-tools/systrace/catapult/tracing/tracing/trace_data/trace_data.py",
+      "size": 11447
+    },
+    {
+      "name": "platform-tools/systrace/catapult/tracing/tracing/trace_data/trace_data_unittest.py",
+      "size": 3483
+    },
+    {
+      "name": "platform-tools/systrace/catapult/tracing/tracing_project.py",
+      "size": 6773
+    },
+    {
+      "name": "platform-tools/systrace/systrace.py",
+      "size": 1456,
+      "executable": true
+    }
+  ]
+}

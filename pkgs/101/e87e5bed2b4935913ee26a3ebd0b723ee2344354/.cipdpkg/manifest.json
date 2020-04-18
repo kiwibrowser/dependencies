@@ -1,0 +1,10 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/icu4j",
+  "files": [
+    {
+      "name": "lib/icu4j.jar",
+      "size": 9709288
+    }
+  ]
+}

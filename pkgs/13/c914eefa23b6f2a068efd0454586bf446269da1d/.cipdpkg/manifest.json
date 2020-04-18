@@ -1,0 +1,14 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/android_deps/repository/com_android_support_palette_v7",
+  "files": [
+    {
+      "name": "com_android_support_palette_v7.info",
+      "size": 326
+    },
+    {
+      "name": "palette-v7-27.0.0.aar",
+      "size": 23996
+    }
+  ]
+}

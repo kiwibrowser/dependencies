@@ -1,0 +1,30 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/sqlite4java",
+  "files": [
+    {
+      "name": "lib/linux-x86/libsqlite4java.so",
+      "size": 732637
+    },
+    {
+      "name": "lib/linux-x86_64/libsqlite4java.so",
+      "size": 790986
+    },
+    {
+      "name": "lib/mac-x86_64/libsqlite4java.jnilib",
+      "size": 1433640
+    },
+    {
+      "name": "lib/sqlite4java.jar",
+      "size": 129381
+    },
+    {
+      "name": "lib/windows-x86/sqlite4java.dll",
+      "size": 462848
+    },
+    {
+      "name": "lib/windows-x86_64/sqlite4java.dll",
+      "size": 622080
+    }
+  ]
+}

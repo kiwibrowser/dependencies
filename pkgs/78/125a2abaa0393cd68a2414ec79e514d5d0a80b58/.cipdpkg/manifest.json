@@ -1,0 +1,756 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/android_sdk/public/build-tools",
+  "files": [
+    {
+      "name": "build-tools/27.0.3/NOTICE.txt",
+      "size": 747328
+    },
+    {
+      "name": "build-tools/27.0.3/aapt",
+      "size": 1425363,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/aapt2",
+      "size": 2699488,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/aarch64-linux-android-ld",
+      "size": 1932780,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/aidl",
+      "size": 571807,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/apksigner",
+      "size": 2612,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/arm-linux-androideabi-ld",
+      "size": 3570836,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/bcc_compat",
+      "size": 43822,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/core-lambda-stubs.jar",
+      "size": 17041
+    },
+    {
+      "name": "build-tools/27.0.3/dexdump",
+      "size": 1371936,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/dx",
+      "size": 2577,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/i686-linux-android-ld",
+      "size": 3570836,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/jack-coverage-plugin.jar",
+      "size": 47782
+    },
+    {
+      "name": "build-tools/27.0.3/jack-jacoco-reporter.jar",
+      "size": 1954445
+    },
+    {
+      "name": "build-tools/27.0.3/jack.jar",
+      "size": 12334436
+    },
+    {
+      "name": "build-tools/27.0.3/jill.jar",
+      "size": 3891189
+    },
+    {
+      "name": "build-tools/27.0.3/lib/apksigner.jar",
+      "size": 291241
+    },
+    {
+      "name": "build-tools/27.0.3/lib/dx.jar",
+      "size": 1030064
+    },
+    {
+      "name": "build-tools/27.0.3/lib/shrinkedAndroid.jar",
+      "size": 39209
+    },
+    {
+      "name": "build-tools/27.0.3/lib64/libLLVM.so",
+      "size": 32089000,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/lib64/libaapt2_jni.so",
+      "size": 3354716,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/lib64/libbcc.so",
+      "size": 581714,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/lib64/libbcinfo.so",
+      "size": 465406,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/lib64/libc++.so",
+      "size": 1276085,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/lib64/libclang.so",
+      "size": 21199168,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/llvm-rs-cc",
+      "size": 1076928,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/mainDexClasses",
+      "size": 4732,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/mainDexClasses.rules",
+      "size": 758
+    },
+    {
+      "name": "build-tools/27.0.3/mainDexClassesNoAapt.rules",
+      "size": 310
+    },
+    {
+      "name": "build-tools/27.0.3/mipsel-linux-android-ld",
+      "size": 1919720,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/package.xml",
+      "size": 17216
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/CMakeLists.txt",
+      "size": 2863
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/LICENSE.TXT",
+      "size": 2749
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/__clang_cuda_cmath.h",
+      "size": 6595
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/__clang_cuda_intrinsics.h",
+      "size": 12973
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/__clang_cuda_math_forward_declares.h",
+      "size": 8323
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/__clang_cuda_runtime_wrapper.h",
+      "size": 12041
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/__stddef_max_align_t.h",
+      "size": 1770
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/__wmmintrin_aes.h",
+      "size": 6026
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/__wmmintrin_pclmul.h",
+      "size": 2804
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/adxintrin.h",
+      "size": 3247
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/altivec.h",
+      "size": 527880
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/ammintrin.h",
+      "size": 8361
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/arm_acle.h",
+      "size": 8964
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avx2intrin.h",
+      "size": 49982
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avx512bwintrin.h",
+      "size": 91684
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avx512cdintrin.h",
+      "size": 4872
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avx512dqintrin.h",
+      "size": 59321
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avx512erintrin.h",
+      "size": 13472
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avx512fintrin.h",
+      "size": 381676
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avx512ifmaintrin.h",
+      "size": 3371
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avx512ifmavlintrin.h",
+      "size": 5119
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avx512pfintrin.h",
+      "size": 5823
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avx512vbmiintrin.h",
+      "size": 4742
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avx512vbmivlintrin.h",
+      "size": 8032
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avx512vlbwintrin.h",
+      "size": 119300
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avx512vlcdintrin.h",
+      "size": 8277
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avx512vldqintrin.h",
+      "size": 47317
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avx512vlintrin.h",
+      "size": 333666
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/avxintrin.h",
+      "size": 105821
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/bmi2intrin.h",
+      "size": 3177
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/bmiintrin.h",
+      "size": 18635
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/clflushoptintrin.h",
+      "size": 1738
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/cpuid.h",
+      "size": 7494
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/cuda_builtin_vars.h",
+      "size": 5544
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/emmintrin.h",
+      "size": 78220
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/f16cintrin.h",
+      "size": 4479
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/float.h",
+      "size": 4247
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/fma4intrin.h",
+      "size": 7558
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/fmaintrin.h",
+      "size": 7561
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/fxsrintrin.h",
+      "size": 1950
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/htmintrin.h",
+      "size": 7154
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/htmxlintrin.h",
+      "size": 10072
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/ia32intrin.h",
+      "size": 2611
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/immintrin.h",
+      "size": 8516
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/intrin.h",
+      "size": 38723
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/inttypes.h",
+      "size": 2939
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/iso646.h",
+      "size": 1565
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/limits.h",
+      "size": 3734
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/lzcntintrin.h",
+      "size": 2325
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/mm3dnow.h",
+      "size": 5377
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/mm_malloc.h",
+      "size": 2611
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/mmintrin.h",
+      "size": 57894
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/module.modulemap",
+      "size": 3810
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/mwaitxintrin.h",
+      "size": 1977
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/nmmintrin.h",
+      "size": 1448
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/opencl-c.h",
+      "size": 819406
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/pkuintrin.h",
+      "size": 1802
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/pmmintrin.h",
+      "size": 11519
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/popcntintrin.h",
+      "size": 3378
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/prfchwintrin.h",
+      "size": 1841
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/rdseedintrin.h",
+      "size": 2029
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/rtmintrin.h",
+      "size": 2137
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/s390intrin.h",
+      "size": 1475
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/shaintrin.h",
+      "size": 2776
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/smmintrin.h",
+      "size": 20207
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/stdalign.h",
+      "size": 1454
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/stdarg.h",
+      "size": 2094
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/stdatomic.h",
+      "size": 8162
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/stdbool.h",
+      "size": 1730
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/stddef.h",
+      "size": 4498
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/stdint.h",
+      "size": 23608
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/stdnoreturn.h",
+      "size": 1381
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/tbmintrin.h",
+      "size": 4096
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/tgmath.h",
+      "size": 30927
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/tmmintrin.h",
+      "size": 30668
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/unwind.h",
+      "size": 10246
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/vadefs.h",
+      "size": 2291
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/varargs.h",
+      "size": 1334
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/vecintrin.h",
+      "size": 291982
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/wmmintrin.h",
+      "size": 1398
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/x86intrin.h",
+      "size": 2718
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/xmmintrin.h",
+      "size": 106522
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/xopintrin.h",
+      "size": 21409
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/xsavecintrin.h",
+      "size": 1885
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/xsaveintrin.h",
+      "size": 2157
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/xsaveoptintrin.h",
+      "size": 1919
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/xsavesintrin.h",
+      "size": 2143
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/clang-include/xtestintrin.h",
+      "size": 1743
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_allocation_create.rsh",
+      "size": 48009
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_allocation_data.rsh",
+      "size": 116851
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_atomic.rsh",
+      "size": 7825
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_convert.rsh",
+      "size": 44721
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_core.rsh",
+      "size": 2173
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_debug.rsh",
+      "size": 7934
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_for_each.rsh",
+      "size": 16909
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_graphics.rsh",
+      "size": 40093
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_io.rsh",
+      "size": 3276
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_math.rsh",
+      "size": 174632
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_matrix.rsh",
+      "size": 20855
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_object_info.rsh",
+      "size": 14546
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_object_types.rsh",
+      "size": 8188
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_quaternion.rsh",
+      "size": 10913
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_time.rsh",
+      "size": 4109
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_value_types.rsh",
+      "size": 14151
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/include/rs_vector_math.rsh",
+      "size": 13229
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/bc/arm64-v8a/libclcore.bc",
+      "size": 328568
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/bc/armeabi-v7a/libclcore.bc",
+      "size": 297820
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/bc/mips/libclcore.bc",
+      "size": 297820
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/bc/x86/libclcore.bc",
+      "size": 296752
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/bc/x86_64/libclcore.bc",
+      "size": 327644
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/blas/arm64-v8a/libblasV8.so",
+      "size": 1441808
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/blas/armeabi-v7a/libblasV8.so",
+      "size": 973076
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/blas/mips/libblasV8.so",
+      "size": 1635676
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/blas/x86/libblasV8.so",
+      "size": 1729440
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/blas/x86_64/libblasV8.so",
+      "size": 2049160
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/intermediates/arm64-v8a/libc.so",
+      "size": 1029576,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/intermediates/arm64-v8a/libcompiler_rt.a",
+      "size": 821262
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/intermediates/arm64-v8a/libm.so",
+      "size": 228656,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/intermediates/armeabi-v7a/libc.so",
+      "size": 800204,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/intermediates/armeabi-v7a/libcompiler_rt.a",
+      "size": 523228
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/intermediates/armeabi-v7a/libm.so",
+      "size": 140844,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/intermediates/mips/libc.so",
+      "size": 1245700,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/intermediates/mips/libcompiler_rt.a",
+      "size": 514672
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/intermediates/mips/libm.so",
+      "size": 206972,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/intermediates/x86/libc.so",
+      "size": 1061696,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/intermediates/x86/libcompiler_rt.a",
+      "size": 401796
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/intermediates/x86/libm.so",
+      "size": 228476,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/intermediates/x86_64/libc.so",
+      "size": 1090032,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/intermediates/x86_64/libcompiler_rt.a",
+      "size": 759098
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/intermediates/x86_64/libm.so",
+      "size": 323480,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/packaged/arm64-v8a/libRSSupport.so",
+      "size": 1500568,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/packaged/arm64-v8a/librsjni.so",
+      "size": 63792,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/packaged/armeabi-v7a/libRSSupport.so",
+      "size": 1013364,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/packaged/armeabi-v7a/librsjni.so",
+      "size": 59904,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/packaged/mips/libRSSupport.so",
+      "size": 1607156,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/packaged/mips/librsjni.so",
+      "size": 72220,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/packaged/x86/libRSSupport.so",
+      "size": 1475576,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/packaged/x86/librsjni.so",
+      "size": 57940,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/packaged/x86_64/libRSSupport.so",
+      "size": 1458936,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/packaged/x86_64/librsjni.so",
+      "size": 67872,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/renderscript/lib/renderscript-v8.jar",
+      "size": 156903
+    },
+    {
+      "name": "build-tools/27.0.3/runtime.properties",
+      "size": 17
+    },
+    {
+      "name": "build-tools/27.0.3/source.properties",
+      "size": 59
+    },
+    {
+      "name": "build-tools/27.0.3/split-select",
+      "size": 1390535,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/x86_64-linux-android-ld",
+      "size": 1756288,
+      "executable": true
+    },
+    {
+      "name": "build-tools/27.0.3/zipalign",
+      "size": 135205,
+      "executable": true
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/afdo/profiles/android",
+  "files": [
+    {
+      "name": "chrome-profile-3309-text.prof",
+      "size": 20532544
+    }
+  ]
+}

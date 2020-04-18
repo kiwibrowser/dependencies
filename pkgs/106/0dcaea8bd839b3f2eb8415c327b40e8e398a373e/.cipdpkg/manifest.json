@@ -1,0 +1,26 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/ow2_asm",
+  "files": [
+    {
+      "name": "lib/asm-analysis.jar",
+      "size": 20445
+    },
+    {
+      "name": "lib/asm-commons.jar",
+      "size": 41718
+    },
+    {
+      "name": "lib/asm-tree.jar",
+      "size": 29038
+    },
+    {
+      "name": "lib/asm-util.jar",
+      "size": 43307
+    },
+    {
+      "name": "lib/asm.jar",
+      "size": 53217
+    }
+  ]
+}

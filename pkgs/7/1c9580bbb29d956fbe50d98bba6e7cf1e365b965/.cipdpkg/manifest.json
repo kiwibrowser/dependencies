@@ -1,0 +1,14 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/android_deps/repository/com_android_support_cardview_v7",
+  "files": [
+    {
+      "name": "cardview-v7-27.0.0.aar",
+      "size": 23047
+    },
+    {
+      "name": "com_android_support_cardview_v7.info",
+      "size": 382
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/javax_inject",
+  "files": [
+    {
+      "name": "lib/javax.inject.jar",
+      "size": 2497
+    }
+  ]
+}

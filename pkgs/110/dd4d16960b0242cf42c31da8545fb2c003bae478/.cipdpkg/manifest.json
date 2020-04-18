@@ -1,0 +1,26 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/robolectric",
+  "files": [
+    {
+      "name": "lib/android-all-4.3_r2-robolectric-0.jar",
+      "size": 33644619
+    },
+    {
+      "name": "lib/android-all-5.0.0_r2-robolectric-1.jar",
+      "size": 42868636
+    },
+    {
+      "name": "lib/android-all-7.1.0_r7-robolectric-0.jar",
+      "size": 64235845
+    },
+    {
+      "name": "lib/android-all-8.0.0_r4-robolectric-0.jar",
+      "size": 68138170
+    },
+    {
+      "name": "lib/android-all-8.1.0-robolectric-r4402310.jar",
+      "size": 109515278
+    }
+  ]
+}

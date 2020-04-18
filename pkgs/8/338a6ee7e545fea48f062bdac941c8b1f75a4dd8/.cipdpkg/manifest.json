@@ -1,0 +1,14 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/android_deps/repository/com_android_support_design",
+  "files": [
+    {
+      "name": "com_android_support_design.info",
+      "size": 2689
+    },
+    {
+      "name": "design-27.0.0.aar",
+      "size": 365457
+    }
+  ]
+}

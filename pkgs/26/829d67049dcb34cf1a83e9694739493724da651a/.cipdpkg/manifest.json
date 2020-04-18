@@ -1,0 +1,14 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/android_deps/repository/com_android_support_support_vector_drawable",
+  "files": [
+    {
+      "name": "com_android_support_support_vector_drawable.info",
+      "size": 326
+    },
+    {
+      "name": "support-vector-drawable-27.0.0.aar",
+      "size": 31632
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/android_deps/repository/android_arch_lifecycle_common",
+  "files": [
+    {
+      "name": "common-1.0.0.jar",
+      "size": 12366
+    }
+  ]
+}

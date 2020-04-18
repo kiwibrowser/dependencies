@@ -1,0 +1,14 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/android_deps/repository/com_android_support_support_core_ui",
+  "files": [
+    {
+      "name": "com_android_support_support_core_ui.info",
+      "size": 325
+    },
+    {
+      "name": "support-core-ui-27.0.0.aar",
+      "size": 234557
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "format_version": "1",
+  "package_name": "chromium/third_party/hamcrest",
+  "files": [
+    {
+      "name": "lib/hamcrest-core.jar",
+      "size": 44125
+    },
+    {
+      "name": "lib/hamcrest-integration.jar",
+      "size": 3921
+    },
+    {
+      "name": "lib/hamcrest-library.jar",
+      "size": 52171
+    }
+  ]
+}
